@@ -45,7 +45,7 @@ https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales?select=SaaS-Sales.csv
 - Beberapa region dan segmen pelanggan tertentu cenderung menunjukkan nilai profit negatif secara konsisten
 
 ## 💡 Rekomendasi
-Analisis ini menunjukkan bahwa sejumlah besar transaksi mengalami **profit negatif**, terutama pada produk **Marketing Suite**. Penyebab utama kerugian berasal dari **diskon yang terlalu tinggi**, **durasi kontrak yang pendek**, dan **segmen pelanggan tertentu**. Untuk mengatasi hal ini, berikut beberapa rekomendasi yang bisa dipertimbangkan:
+Analisis ini menunjukkan bahwa sejumlah besar transaksi mengalami **profit negatif**, terutama pada produk **Marketing Suite**. Penyebab utama kerugian berasal dari **diskon yang terlalu tinggi**, dan **segmen pelanggan tertentu**. Untuk mengatasi hal ini, berikut beberapa rekomendasi yang bisa dipertimbangkan:
 
 ### 1. 🎯 Pendekatan Personal terhadap Pelanggan Bernilai Tinggi
 Kenali pola transaksi pelanggan yang sering melakukan pembelian dan tetap memberikan keuntungan. Gunakan pemahaman ini untuk merancang strategi komunikasi, dukungan, dan retensi yang lebih sesuai dengan kebutuhan mereka.
