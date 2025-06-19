@@ -33,7 +33,7 @@ https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales?select=SaaS-Sales.csv
 
    - Visualisasi:
 
-      - Boxplot untuk outlier pada Net Sales, Discount, dan Profit
+      - Boxplot untuk outlier pada Sales, Discount, dan Profit
 
       -  Bar chart dan pie chart untuk persebaran produk, region, dan segmen pelanggan
 3. Analisis Profit Negatif
